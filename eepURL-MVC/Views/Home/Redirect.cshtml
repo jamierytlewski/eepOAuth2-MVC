@@ -1,0 +1,11 @@
+﻿@model eepURL_MVC.Models.Lists
+
+@{
+    ViewBag.Title = "Redirect";
+}
+
+<h2>Test Page</h2>
+@foreach (var i in Model.data)
+{
+    @Html.ActionLink(i.name, "listActivity", new{id=i.id}) <br />
+}

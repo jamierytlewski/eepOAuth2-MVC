@@ -1,0 +1,20 @@
+﻿@model List<eepURL_MVC.Models.ListActivity>
+@{
+    ViewBag.Title = "ListActivity";
+}
+<h2>
+    ListActivity</h2>
+@if (Model != null)
+{
+    foreach (var i in Model)
+    {
+    <p>
+        Activity Day: @i.day</p>
+    }
+}
+else
+{
+    <p>
+        No entries for that list</p>
+
+}

@@ -1,0 +1,14 @@
+c:\users\jamie rytlewski\documents\visual studio 2010\Projects\eepURL-MVC\eepURL-MVC\bin\eepURL-MVC.dll
+c:\users\jamie rytlewski\documents\visual studio 2010\Projects\eepURL-MVC\eepURL-MVC\bin\eepURL-MVC.pdb
+c:\users\jamie rytlewski\documents\visual studio 2010\Projects\eepURL-MVC\eepURL-MVC\bin\EntityFramework.dll
+c:\users\jamie rytlewski\documents\visual studio 2010\Projects\eepURL-MVC\eepURL-MVC\bin\EntityFramework.xml
+c:\users\jamie rytlewski\documents\visual studio 2010\Projects\eepURL-MVC\eepURL-MVC\obj\Debug\ResolveAssemblyReference.cache
+c:\users\jamie rytlewski\documents\visual studio 2010\Projects\eepURL-MVC\eepURL-MVC\obj\Debug\eepURL-MVC.dll
+c:\users\jamie rytlewski\documents\visual studio 2010\Projects\eepURL-MVC\eepURL-MVC\obj\Debug\eepURL-MVC.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\eepURL-MVC\eepURL-MVC\bin\eepURL-MVC.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\eepURL-MVC\eepURL-MVC\bin\eepURL-MVC.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\eepURL-MVC\eepURL-MVC\bin\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\eepURL-MVC\eepURL-MVC\bin\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\eepURL-MVC\eepURL-MVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\eepURL-MVC\eepURL-MVC\obj\Debug\eepURL-MVC.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\eepURL-MVC\eepURL-MVC\obj\Debug\eepURL-MVC.pdb

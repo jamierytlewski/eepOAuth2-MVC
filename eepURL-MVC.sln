@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eepURL-MVC", "eepURL-MVC\eepURL-MVC.csproj", "{44AA2DC9-0CEA-49FF-ADF9-C178E475DBEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44AA2DC9-0CEA-49FF-ADF9-C178E475DBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AA2DC9-0CEA-49FF-ADF9-C178E475DBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AA2DC9-0CEA-49FF-ADF9-C178E475DBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AA2DC9-0CEA-49FF-ADF9-C178E475DBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

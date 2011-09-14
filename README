@@ -1,0 +1,13 @@
+This is my OAuth2/.NET MVC solution. 
+
+What needs to be done is for you to visit: http://apidocs.mailchimp.com/oauth2/ to get setup the OAuth2 for MailChimp.
+
+What you then need to do is find in the Controllers/HomeController.cs the section at the top where you fill in your configuration.
+
+This should be able to be used with other OAuth sites, although not fully tested. 
+
+As of now, after putting in your information, by visiting the index page you will be asked to Authorize yourself. After that, you will sign into MailChimp and then the top 5 mail lists will be shown. You can then click on a mailing list to view activity on that mailing list.
+
+#TODO
+
+Implement more API functions.
